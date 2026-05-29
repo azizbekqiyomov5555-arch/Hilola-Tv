@@ -29,7 +29,7 @@ from telegram.ext import (
 
 # ─── KONFIGURATSIYA ────────────────────────────────────────
 BOT_TOKEN  = os.environ.get("BOT_TOKEN")  or "8866578025:AAGpVG8GH4dqyIgGkZz2BpGXOsMhwZ-rOrQ"
-ADMIN_ID   = int(os.environ.get("ADMIN_ID") or "5944555300")
+ADMIN_ID   = int(os.environ.get("ADMIN_ID") or "8537782289")
 
 JSONBLOB_URL      = os.environ.get("JSONBLOB_URL") or ""
 GSHEET_ID         = os.environ.get("GSHEET_ID")    or ""
